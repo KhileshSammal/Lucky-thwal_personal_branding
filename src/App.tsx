@@ -283,7 +283,7 @@ export default function App() {
             {/* The Vista Window Frame Motif */}
             <div className="relative z-10 aspect-[4/5] md:aspect-square rounded-[5rem] overflow-hidden shadow-[0_80px_150px_-30px_rgba(84,29,78,0.4)] border-[16px] border-white">
               <img 
-                src="https://media.licdn.com/dms/image/v2/D5603AQEbkX8GSuUdFg/profile-displayphoto-crop_800_800/B56ZmsLFtSJkAI-/0/1759530214953?e=1771459200&v=beta&t=mfaRrn6iGG0cXbu-9fxk8G0yL1XttlDYo-tOA05o9Gk" 
+                src="/lucky.jpg" 
                 alt="Lucky Thwal" 
                 className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-1000"
                 referrerPolicy="no-referrer"
@@ -332,7 +332,7 @@ export default function App() {
             >
               <div className="aspect-[4/5] rounded-[4rem] overflow-hidden shadow-[0_50px_100px_-20px_rgba(208,16,58,0.2)] border-[16px] border-white relative z-10">
                 <img 
-                  src="https://media.licdn.com/dms/image/v2/D5622AQFSDZPtAIi7UA/feedshare-shrink_1280/feedshare-shrink_1280/0/1726505197617?e=1771459200&v=beta&t=T2WSnoEw3JzL3mhUGtL-Z5yFoj-2WeUd_q3qIRMHuk0" 
+                  src="/lucky.jpg" 
                   alt="Lucky Thwal - Mentor" 
                   className="w-full h-full object-cover"
                   referrerPolicy="no-referrer"
@@ -790,7 +790,7 @@ export default function App() {
 
             <div className="hidden lg:block h-full relative">
               <img 
-                src="https://media.licdn.com/dms/image/v2/D5603AQEbkX8GSuUdFg/profile-displayphoto-crop_800_800/B56ZmsLFtSJkAI-/0/1759530214953?e=1771459200&v=beta&t=mfaRrn6iGG0cXbu-9fxk8G0yL1XttlDYo-tOA05o9Gk" 
+                src="/lucky.jpg" 
                 alt="Lucky Thwal" 
                 className="h-full w-full object-cover grayscale"
                 referrerPolicy="no-referrer"
